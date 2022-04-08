@@ -8,4 +8,5 @@ int main()
   cout<<"\n Sua doi lan thu hai";
   cout<<"\n Tao conflict";
   cout<<"\n Sua doi lan thu ba";
+  cout<<"\n lan thu 4";
 }
