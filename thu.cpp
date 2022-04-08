@@ -6,4 +6,6 @@ int main()
   cout<<"Test github";
   cout<<"\n Sua doi lan thu nhat";
   cout<<"\n Sua doi lan thu hai";
+  cout<<"\n Tao conflict";
+  cout<<"\n Sua doi lan thu ba";
 }
