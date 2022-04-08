@@ -9,4 +9,5 @@ int main()
   cout<<"\n Tao conflict";
   cout<<"\n Sua doi lan thu ba";
   cout<<"\n lan thu 4";
+  cout<<"\n tao conflict lan 2";
 }
