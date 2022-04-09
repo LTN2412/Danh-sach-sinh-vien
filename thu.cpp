@@ -7,5 +7,9 @@ int main()
   cout<<"\n Sua doi lan thu nhat";
   cout<<"\n Sua doi lan thu hai";
   cout<<"\n Tao conflict";
-  cout<<"\n Sua doi lan thu";
+  cout<<"\n Sua doi lan thu ba";
+  cout<<"\n lan thu 4";
+  cout<<"\conflict";
+  cout<<"\n lan 5";
+  cout<<"thu pull code ve";
 }
