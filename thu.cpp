@@ -11,4 +11,5 @@ int main()
   cout<<"\n lan thu 4";
   cout<<"\nconflict";
   cout<<"\n sua lan 6";
+  cout<<"\n tao xung dot de merge";
 }
