@@ -12,4 +12,5 @@ int main()
   cout<<"\nconflict";
   cout<<"\n sua lan 6";
   cout<<"\n tao xung dot de merge";
+  cout<<"\n thu gop cac commit";
 }
