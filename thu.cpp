@@ -10,4 +10,5 @@ int main()
   cout<<"\n Sua doi lan thu ba";
   cout<<"\n lan thu 4";
   cout<<"\conflict";
+  cout<<"\n lan 5";
 }
