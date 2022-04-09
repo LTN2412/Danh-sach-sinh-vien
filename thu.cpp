@@ -12,4 +12,5 @@ int main()
   cout<<"\conflict";
   cout<<"\n lan 5";
   cout<<"thu pull code ve";
+  cout<<"thu pull lan 2";
 }
