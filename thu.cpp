@@ -9,8 +9,14 @@ int main()
   cout<<"\n Tao conflict";
   cout<<"\n Sua doi lan thu ba";
   cout<<"\n lan thu 4";
+<<<<<<< HEAD
   cout<<"\conflict";
   cout<<"\n lan 5";
   cout<<"thu pull code ve";
   cout<<"thu pull lan 2";
+=======
+  cout<<"\nconflict";
+  cout<<"\n sua lan 6";
+  cout<<"\n tao xung dot de merge";
+>>>>>>> hello
 }
